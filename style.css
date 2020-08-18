@@ -42,9 +42,9 @@
 }
 .nav-link
 {
-    color: #555!important;
-    font-weight: 600;
-    font-size: 16px;
+    color: white!important;
+    font-weight: 700;
+    font-size: 25px;
 }
 
 #slider
@@ -70,6 +70,19 @@
     padding-bottom: 50px;
     color: #555;
 }
+
+#demenagement b
+{
+    font-size: 20px;
+    color: black;
+}
+
+#demenagement h3
+{
+    font-size: 35px;
+    color: blue;
+}
+
 #demenagement .btn
 {
     margin-top: 20px;
@@ -122,9 +135,22 @@
     border-radius: 50%;
 }
 
+#services h3
+{
+    font-size: 20px;
+    margin-top: 20px;
+    color: red;
+}
+
 #services p
 {
-    font-size: 14px;
+    font-size: 23px;
+    margin-top: 20px;
+    color: #ccc;
+}
+#services b
+{
+    font-size: 23px;
     margin-top: 20px;
     color: #ccc;
 }
@@ -137,6 +163,7 @@
 .en-clair
 {
     text-align: justify;
+    font-size: 23px;
 }
 
 #prestations
@@ -170,13 +197,13 @@
 
 .test
 {
-    color: 	#555!important;
+    color: #555!important;
 }
 
 .price-head h2
 {
     color: #fff;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
     margin-bottom: 5px;
     padding: 5px;
@@ -196,6 +223,7 @@
     border-bottom: 1px solid #efefef;
     padding: 15px 10px;
     list-style: none;
+    font-size: 20px;
 }
 
 ul li:last-child
@@ -230,7 +258,7 @@ ul li:last-child
     background-color: #2196;
     border-radius: 3px;
     display: inline-block;
-    font-size: 18px;
+    font-size: 20px;
     padding: 15px 15px;
     transition: 0.5s;
 }
@@ -294,14 +322,17 @@ a
 
 .kiwit
 {
+    font-size: 25px;
     color: red;
 }
 .kiwit2
 {
+    font-size: 25px;
     color: blue;
 }
 .frais
 {
+    font-size: 20px;
     color: black;
 }
 .frais2
